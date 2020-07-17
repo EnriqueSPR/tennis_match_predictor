@@ -53,7 +53,7 @@ I tried different classification models and evaluated them using Score and Mean 
 
 Plot of the distribution of the accuracy scores using box and whisker plots:
 
-<img src="pictures/alg_comparisson.png" width="350"/>
+<img src="figures/alg_comparisson.png" width="350"/>
 
 I repeated this spot-check with a standardized copy of the training dataset (scaling), but this did not positively affected the performnace of LR and LDA.
 
