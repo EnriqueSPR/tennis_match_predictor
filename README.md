@@ -2,11 +2,11 @@
 
 * The goal of this project was to create an algorithm using supervised machine learning to predict the outcome of tennis matches by taking in account information from the players form before the match.
 
-* I scrapped the data from ATP tournaments, matches and players from 1999 to 2020.
+* I scrapped the data from ATP tournaments, matches and players from 1999 to 2020 (> 78000 matches).
 
 * I performed data cleaning steps and feature engineering to create information of the players form at the moment of the upcoming match.
 
-* Exploratory data analyses were carried out to get insight into the features correlation and distribution. This allowed to selectthe most relevant features for the model.
+* Exploratory data analyses were carried out to get insight into the features correlation and distribution. This allowed to select the most relevant features for the model.
 
 * I tested diferent algorithms capable of working on this classification problem:
 
@@ -53,7 +53,7 @@ I tried different classification models and evaluated them using Score and Mean 
 
 Plot of the distribution of the accuracy scores using box and whisker plots:
 
-<img src="figures/alg_comparisson.png" width="350"/>
+<img src="figures/Model_Performance.png" width="200"/> <img src="figures/alg_comparisson.png" width="350"/>
 
 I repeated this spot-check with a standardized copy of the training dataset (scaling), but this did not positively affected the performance of LR and LDA.
 
