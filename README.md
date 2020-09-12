@@ -1,6 +1,6 @@
 # tennis_match_predictor
 
-* The goal of this project was to create an algorithm using supervised machine learning to predict the outcome of tennis matches by taking in account information from the players form before the match.
+* The goal of this project was to create a model using supervised machine learning to predict the outcome of tennis matches by taking in account information from the players form before the match.
 
 * I scrapped the data from ATP tournaments, matches and players from 1999 to 2020 (> 78000 matches).
 
