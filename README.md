@@ -1,6 +1,6 @@
 # tennis_match_predictor
 
-[**See project here**](https://nbviewer.jupyter.org/github/EnriqueSPR/tennis_match_predictor/blob/master/tennis_p.ipynb)
+[**See full project here.**](https://nbviewer.jupyter.org/github/EnriqueSPR/tennis_match_predictor/blob/master/tennis_p.ipynb)
 
 * The goal of this project was to create a model using supervised machine learning to predict the outcome of tennis matches by taking in account information from the players form before the match.
 
