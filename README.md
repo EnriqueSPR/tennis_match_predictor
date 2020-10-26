@@ -2,7 +2,9 @@
 
 [**See full project here.**](https://nbviewer.jupyter.org/github/EnriqueSPR/tennis_match_predictor/blob/master/tennis_p.ipynb)
 
-* The goal of this project was to create a model using supervised machine learning to predict the outcome of tennis matches by taking in account information from the players form before the match.
+* The goal of this project was to train a model using supervised machine learning to predict the outcome of tennis matches by taking in account information from the players form before the match.
+
+### Summary:
 
 * I scrapped the data from ATP tournaments, matches and players from 1999 to 2020 (> 78000 matches).
 
@@ -16,6 +18,8 @@
   * Nonlinear Algorithms: Classification and Regression Trees (CART), Support Vector Machines (SVM), Gaussian Naive Bayes (NB) and k-Nearest Neighbors (KNN).
   
 * Linear Regression models preformed better in this case, and were chosen for further tunning. 
+
+### Resources Used:
 
 **Python Version**: 3.7
 
